@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:moderatesforjaneese.substack.com)",
+      "WebFetch(domain:janeesefordc.com)"
+    ]
+  }
+}

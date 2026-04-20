@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-A single-page advocacy website at `cyclistsforjaneese.com` making the case for why DC cyclists should vote for Janeese Lewis George for mayor. The companion long-form case is at the Substack post linked in the footer.
+A single-page advocacy website at `bibicyclistsforjaneese.com` making the case for why DC bicyclists should vote for Janeese Lewis George for mayor. The companion long-form case is at the Substack post linked in the footer.
 
 ## Tech Stack
 
@@ -12,12 +12,12 @@ Plain HTML/CSS/vanilla JS — no build step, no framework, no dependencies besid
 
 ## Deployment
 
-GitHub Pages with a custom domain. The `CNAME` file contains `cyclistsforjaneese.com`. To deploy, just push to `main` — GitHub Pages serves the root `index.html` automatically.
+GitHub Pages with a custom domain. The `CNAME` file contains `bibicyclistsforjaneese.com`. To deploy, just push to `main` — GitHub Pages serves the root `index.html` automatically.
 
 To configure the custom domain for the first time:
 1. Push the `CNAME` file to the repo
-2. In repo Settings → Pages, set the custom domain to `cyclistsforjaneese.com`
-3. Add a CNAME DNS record at your registrar pointing `cyclistsforjaneese.com` to `<username>.github.io`
+2. In repo Settings → Pages, set the custom domain to `bibicyclistsforjaneese.com`
+3. Add a CNAME DNS record at your registrar pointing `bibicyclistsforjaneese.com` to `<username>.github.io`
 
 ## Key Links (do not change without verifying with owner)
 
